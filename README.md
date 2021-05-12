@@ -1,7 +1,7 @@
 ![](https://github.com/aakankshabhende/aakankshabhende/tree/main/images/header_.png)
 
 <h1 align="center">Hey there, I'm Aakanksha Bhende <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-  
+<br/>  
 I'm a sophomore who is passionate in Web development🎯 and confident in my ability to come up with better solutions..:bar_chart:.
 
 ## 👨‍💻 Languages and Tools
@@ -10,22 +10,19 @@ I'm a sophomore who is passionate in Web development🎯 and confident in my abi
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<br/><br/>
 
 - 🌱 I’m currently learning ReactJs
 - 📫 How to reach me: You can ping me on [LinkedIn](https://www.linkedin.com/in/aakanksha-bhende/) 
  
 <br />
-
-
-
-
 <div align="center">
  
 </div>
 
 <br >
 <h3 align="left">Connect with me:</h3>
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakanksha-bhende/)
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">(https://www.linkedin.com/in/aakanksha-bhende/)
 
 </div>
 
