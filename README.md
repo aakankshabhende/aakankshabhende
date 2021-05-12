@@ -22,8 +22,8 @@ I'm a sophomore who is passionate in Web development🎯 and confident in my abi
 
 <br >
 <h3 align="left">Connect with me:</h3>
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">(https://www.linkedin.com/in/aakanksha-bhende/)
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakanksha-bhende/)
 </div>
 
 <!--
