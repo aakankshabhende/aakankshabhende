@@ -12,7 +12,7 @@ I'm a sophomore who is passionate about Web development🎯 and confident in my 
 <br/><br/><br/>
 
 - 🌱 I’m currently learning ReactJs
-- 📫 How to reach me: You can ping me on [LinkedIn](https://www.linkedin.com/in/aakanksha-bhende/) 
+- 📫 Reach me at : **aakanksha0407@gmail.com**
  
 <br />
 <div align="center">
