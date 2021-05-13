@@ -23,6 +23,14 @@ I'm a sophomore who is passionate about Web development🎯 and confident in my 
 <h3 align="left">Connect with me:</h3>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakanksha-bhende/)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aakankshabhende&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h3>My Projects:</h3>
+<p>
+Check the repositories below. 👇
+</p>
 </div>
 
 <!--
