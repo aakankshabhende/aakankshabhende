@@ -24,6 +24,9 @@ I'm a sophomore who is passionate about Web development🎯 and confident in my 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakanksha-bhende/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakankshabhende&layout=compact)]
+
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aakankshabhende&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
