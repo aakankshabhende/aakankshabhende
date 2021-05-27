@@ -2,6 +2,7 @@
 <h1 align="center">Hey there, I'm Aakanksha Bhende <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <br/>  
 I'm a sophomore who is passionate about Web development🎯 and confident in my ability to come up with better solutions.:bar_chart:.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakankshabhende&label=Profile%20views&color=0e75b6&style=flat" alt="aakankshabhende" /> </p>
 
 ## 👨‍💻 Languages and Tools
 <br/>
@@ -19,14 +20,14 @@ I'm a sophomore who is passionate about Web development🎯 and confident in my 
  
 </div>
 
-<br >
+<br/>
 <h3 align="left">Connect with me:</h3>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakanksha-bhende/)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aakankshabhende&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakankshabhende&show_icons=true&locale=en&layout=compact" alt="aakankshabhende" /></p>
 <h3>My Projects:</h3>
 <p>
 Check the repositories below. 👇
