@@ -25,7 +25,7 @@ I'm an enthusiastic individual who loves to explore and experiment new stuffs, p
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakanksha-bhende/)
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=aakankshabhende&show_icons=true&locale=en&layout=compact" alt="aakankshabhende" /></p>
-<br/>
+<br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakankshabhende&show_icons=true&locale=en" alt="aakankshabhende" /></p>
 
 <h3>My Projects:</h3>
