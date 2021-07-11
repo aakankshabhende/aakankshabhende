@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I'm Aakanksha Bhende <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <br/>  
 I'm an enthusiastic individual who loves to explore and experiment new stuffs, passionate about Web development🎯 and confident in my ability to come up with better solutions.:bar_chart:
-<br/>
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakankshabhende&label=Profile%20views&color=0e75b6&style=flat" alt="aakankshabhende" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
@@ -14,23 +14,26 @@ I'm an enthusiastic individual who loves to explore and experiment new stuffs, p
 - 🌱 I’m currently learning <b>ReactJs</b>
 - 📫 Reach me at : **aakanksha0407@gmail.com**
  
-<br />
-<div align="center">
- 
-</div>
+<br/><br/>
 
-<br/>
-<h3 align="left">Connect with me:</h3>
+
+## ✨ Connect with me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakanksha-bhende/)
+
+<p align=center >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aakankshabhende" /> 
+</p>
+
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=aakankshabhende&show_icons=true&locale=en&layout=compact" alt="aakankshabhende" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakankshabhende&show_icons=true&locale=en" alt="aakankshabhende" /></p>
 
-<h3>My Projects:</h3>
+
+## ✔ My Projects
 <p>
-Check my repositories below. 👇
+Check my repositories below 👇
 </p>
 </div>
 
