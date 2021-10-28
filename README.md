@@ -9,10 +9,16 @@ I'm an enthusiastic individual who loves to explore and experiment new stuffs, p
 
 - 🌱 I’m currently learning <b>ReactJs</b>
 - 💬 Ask me about **Web Development**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **aakanksha0407@gmail.com**
 - ⚡ Fun fact: I love exploring and learning new things.
  
 <br/><br/>
+
+## 🚀 My Blogs
+
+[<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">](https://aakankshabhende.blogspot.com/)
+
 ## 🤝 Connect with me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakanksha-bhende/)
@@ -26,10 +32,11 @@ I'm an enthusiastic individual who loves to explore and experiment new stuffs, p
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakankshabhende" /> 
 </p>
 
-
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=aakankshabhende&show_icons=true&locale=en&layout=compact" alt="aakankshabhende" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakankshabhende&show_icons=true&locale=en" alt="aakankshabhende" /></p>
+<p align=center >
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=aakankshabhende&show_icons=true&locale=en&layout=compact" alt="aakankshabhende" /></p>
+<p align=center >
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakankshabhende&show_icons=true&locale=en" alt="aakankshabhende" />
+</p>
 
 ## ✔ My Projects
 <p>
