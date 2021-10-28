@@ -33,7 +33,8 @@ I'm an enthusiastic individual who loves to explore and experiment new stuffs, p
 </p>
 
 <p align=center >
-<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=aakankshabhende&show_icons=true&locale=en&layout=compact" alt="aakankshabhende" /></p>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=aakankshabhende&show_icons=true&locale=en&layout=compact" alt="aakankshabhende" /></p>
+<br/>
 <p align=center >
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakankshabhende&show_icons=true&locale=en" alt="aakankshabhende" />
 </p>
