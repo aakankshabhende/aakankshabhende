@@ -1,13 +1,13 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center">Hey there, I'm Aakanksha Bhende <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center">Hey there, I'm Aakanksha Bhende ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <br/>  
-I'm an enthusiastic individual who loves to explore and experiment new stuffs, passionate about Web development🎯 and confident in my ability to come up with better solutions.:bar_chart:
+I'm an enthusiastic individual who loves to explore and experiment new stuffs, passionate about Web development 🎯 and confident in my ability to come up with better solutions. :bar_chart:
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakankshabhende&label=Profile%20views&color=0e75b6&style=flat" alt="aakankshabhende" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakankshabhende&label=Profile%20views&color=32CD32&style=flat" alt="aakankshabhende" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <br/>
 
-- 🌱 I’m currently learning <b>ReactJs</b>
+- 🌱 I’m currently learning <b>Flutter</b>
 - 💬 Ask me about **Web Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **aakanksha0407@gmail.com**
