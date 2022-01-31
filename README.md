@@ -8,6 +8,7 @@ I'm an enthusiastic individual who loves to explore and experiment new stuffs, p
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 I’m currently learning <b>Flutter</b>
+- 🔭 I’m currently exploring <b>Web3</b>
 - 💬 Ask me about **Web Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **aakanksha0407@gmail.com**
