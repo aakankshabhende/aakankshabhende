@@ -1,24 +1,24 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-# Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aakanksha!](https://aakankshabhende.github.io/) 
+# Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aakanksha](https://aakankshabhende.github.io/)!
 
 I'm an enthusiastic individual who loves to explore and experiment new stuffs, passionate about Web development 🎯 and confident in my ability to come up with better solutions. :bar_chart:
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakankshabhende&label=Profile%20views&color=32CD32&style=flat" alt="aakankshabhende" /> </p>
-<br/>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning <b>Flutter</b>
+- 🌱 I’m currently learning <b>Solidity</b>
 - 🔭 I’m currently exploring <b>Web3</b>
 - 💬 Ask me about **Web Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **aakanksha0407@gmail.com**
-- ⚡ Fun fact: I love exploring and learning new things.
+- ⚡ Fun fact: I love designing and travelling to explore new places and stuffs.
  
 <br/>
 
 ## 🚀 My Blogs
-
-[<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">](https://aakankshabhende.blogspot.com/)
+I love exploring technology and documenting stuff that I come across and find interesting. Hoping that you will love reading it :)<br><br>
+[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">](https://aakankshabhende.hashnode.dev/)
 
 ## 🤝 Connect with me
 
