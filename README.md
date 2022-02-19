@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 # Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aakanksha](https://aakankshabhende.github.io/)!
 
-I'm an enthusiastic individual who loves to explore and experiment new stuffs, passionate about Web development 🎯 and confident in my ability to come up with better solutions. :bar_chart:
+I'm an enthusiastic individual who loves to explore and experiment new stuffs, passionate about Web development 🎯 and confident in my ability to come up with better solutions :bar_chart:
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakankshabhende&label=Profile%20views&color=32CD32&style=flat" alt="aakankshabhende" /> </p>
 
@@ -12,7 +12,7 @@ I'm an enthusiastic individual who loves to explore and experiment new stuffs, p
 - 💬 Ask me about **Web Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **aakanksha0407@gmail.com**
-- ⚡ Fun fact: I love designing and travelling to explore new places and stuffs.
+- ⚡ Fun fact: I love designing and travelling to explore new places.
  
 <br/>
 
