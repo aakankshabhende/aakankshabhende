@@ -29,7 +29,11 @@ I love exploring technology and documenting stuff that I come across and find in
 [<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">](https://aakankshabhende.hashnode.dev/)
 
 ## 🤝 Connect with me
-
+<p>
+I love networking and connecting with people of different backgrounds and hence I'm an active member of numerous technical and non-technical clubs and societies⚡
+<br/>
+You can connect with me here-
+</p>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakanksha-bhende/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/AakankshaBhende)
 
