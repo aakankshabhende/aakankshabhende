@@ -5,7 +5,7 @@ An enthusiastic individual who loves exploring new technology and who has the ab
   ✨ A Web Developer and an Open Source Enthusiast who has guided 100+ participants to start their open-source journey.  <br/>
   &nbsp  &nbsp I have contributed to numerous open-source projects and now mentoring various projects and teams.<br/>
   🌱 I work closely with the local training and development centre WebSyCode to abridge the technological gap separating the  current market
-  &nbsp  &nbsp trends with academics means of webinars, in-person consultation and running local campaigns and meetups. <br/>
+ trends with academics means of webinars, in-person consultation and running local campaigns and meetups. <br/>
   ✔️ I believe in sharing, learning and growing together. Extremely motivated to develop my skills constantly and grow professionally. Also, I possess
     great communication and leadership skills.
 <br>
