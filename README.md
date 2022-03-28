@@ -1,14 +1,13 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 # Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aakanksha](https://aakankshabhende.github.io/)!
-<p>
-An enthusiastic individual who loves exploring new technology and who has the ability to come up with better solutions. <br/>
-  ✨ A Web Developer and an Open Source Enthusiast who has guided 100+ participants to start their open-source journey. 
-     I have contributed to numerous open-source projects and now mentoring various projects and teams.<br/>
-  🌱 I work closely with the local training and development centre WebSyCode to abridge the 
-      technological gap separating the current market trends with academics via means of webinars, in-person consultation 
-      and running local campaigns and meetups. <br/>
-  ✔️ I believe in sharing, learning and growing together. Extremely motivated to develop my skills constantly and grow 
-      professionally. Also, I possess great communication and leadership skills.<br/>
+<p style = "line-height: 80%">
+An enthusiastic individual who loves exploring new technology and who has the ability to come up with better solutions.  I have contributed  <br/>
+  ✨ A Web Developer and an Open Source Enthusiast who has guided 100+ participants to start their open-source journey.  <br/>
+  &nbsp  &nbsp to numerous open-source projects and now mentoring various projects and teams.<br/>
+  🌱 I work closely with the local training and development centre WebSyCode to abridge the technological gap separating the  current market <br/>
+  &nbsp  &nbsp trends with academics via means of webinars, in-person consultation and running local campaigns and meetups. <br/>
+  ✔️ I believe in sharing, learning and growing together. Extremely motivated to develop my skills constantly and grow professionally. Also, I possess
+    great communication and leadership skills.
 <br>
 </p>
 
