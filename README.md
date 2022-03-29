@@ -21,6 +21,7 @@ An enthusiastic individual who loves exploring new technology and who has the ab
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **aakanksha0407@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
+- ❤️ Building a community to make an impact by training new generations on cutting edge technologies to meet future requirements. You can join us [here](https://www.linkedin.com/company/websycode) 
  
 <br/>
 
