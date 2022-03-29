@@ -2,9 +2,9 @@
 # Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aakanksha](https://aakankshabhende.github.io/)!
 <p style = "line-height: 80%">
 An enthusiastic individual who loves exploring new technology and who has the ability to come up with better solutions.  <br/>
-  ✨ A Web Developer and an Open Source Enthusiast who has guided 100+ participants to start their open-source journey.  <br/>
+  ✨ A Web Developer and an Open Source Enthusiast who has guided <b>100+ participants</b> to start their open-source journey.  <br/>
   &nbsp &nbsp  &nbsp I have contributed to numerous open-source projects and now mentoring various projects and teams.<br/>
-  🌱 I work closely with the local training and development centre <a href="https://websycode.in/">WebSyCode</a> to abridge the technological gap separating the  current market trends with academics means of webinars, in-person consultation and running local campaigns and meetups. <br/>
+  🌱 I work closely with the local training and development centre <b><a href="https://websycode.in/">WebSyCode</a></b> to abridge the technological gap separating the  current market trends with academics means of webinars, in-person consultation and running local campaigns and meetups. <br/>
   ✔️ I believe in sharing, learning and growing together. Extremely motivated to develop my skills constantly and grow professionally. Also, I possess
     great communication and leadership skills.
 <br>
@@ -17,7 +17,7 @@ An enthusiastic individual who loves exploring new technology and who has the ab
 
 - 🌱 I’m currently learning <b>Solidity</b>
 - 🔭 I’m currently exploring <b>Web3</b>
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **aakanksha0407@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
