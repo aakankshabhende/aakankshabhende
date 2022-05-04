@@ -26,7 +26,7 @@ An enthusiastic individual who loves exploring new technology and who has the ab
 
 ## 🚀 My Blogs
 I love exploring technology and documenting stuff that I come across and find interesting. Hoping that you will love reading it :)<br><br>
-[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">](https://aakankshabhende.hashnode.dev/)
+[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">](https://blogs.aakanksha.is-a.dev/)
 
 ## 🤝 Connect with me
 <p>
