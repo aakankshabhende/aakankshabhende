@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-# Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aakanksha](https://aakanksha.is-a.dev/)!
+# Hey there 👋🏻, I'm [Aakanksha](https://aakanksha.is-a.dev/)!
 <p style = "line-height: 80%">
 An enthusiastic individual who loves exploring new technology and who has the ability to come up with better solutions.  <br/>
   ✨ A Web Developer and an Open Source Enthusiast who has guided <b>100+ participants</b> to start their open-source journey.  <br/>
@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### 👉 Front-end
 ### 👉 Back-end
 ### 👉 Programming Language
