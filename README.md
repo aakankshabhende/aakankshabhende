@@ -1,15 +1,15 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-# Hey there 👋🏻, I'm [Aakanksha](https://aakanksha.is-a.dev/)!
+# Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, I'm [Aakanksha](https://aakanksha.is-a.dev/)!
+
 <p style = "line-height: 80%">
-An enthusiastic individual who loves exploring new technology and who has the ability to come up with better solutions.  <br/>
+An enthusiastic individual who loves exploring new technologies and who has the ability to come up with better solutions.  <br/>
   ✨ A Web Developer and an Open Source Enthusiast who has guided <b>100+ participants</b> to start their open-source journey.  <br/>
   &nbsp &nbsp  &nbsp I have contributed to numerous open-source projects and now mentoring various projects and teams.<br/>
-  🌱 I work closely with the local training and development centre <b><a href="https://websycode.in/">WebSyCode</a></b> to abridge the technological gap separating the  current market trends with academics means of webinars, in-person consultation and running local campaigns and meetups. <br/>
+  🌱 I work closely with the local training and development centre <b><a href="https://websycode.in/">WebSyCode</a></b> to abridge the technological gap separating the current market trends with academic means of webinars, in-person consultation and running local campaigns and meetups. <br/>
   ✔️ I believe in sharing, learning and growing together. Extremely motivated to develop my skills constantly and grow professionally. Also, I possess
     great communication and leadership skills.
 <br>
 </p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakankshabhende&label=Profile%20views&color=32CD32&style=flat" alt="aakankshabhende" /> </p>
 
@@ -73,7 +73,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### 👉 Front-end
 ### 👉 Back-end
 ### 👉 Programming Language
