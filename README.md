@@ -16,7 +16,7 @@ An enthusiastic individual who loves exploring new technologies and who has the 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 I’m currently looking for <b>Intership Opportunities</b>
-- 🔭 I’m currently exploring <b>Web3</b>
+- 🔭 I’m currently exploring <b>Cloud Services</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **aakanksha0407@gmail.com**
