@@ -15,7 +15,6 @@ An enthusiastic individual who loves exploring new technologies and who has the 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently looking for <b>Full Time Employment Opportunities</b>
 - 🔭 I’m currently exploring <b>Cloud Services</b>
 - 💬 Ask me about **Cloud** and **Open Source Contributions** 
 - 👯 I’m looking to collaborate on **Open Source Projects**
