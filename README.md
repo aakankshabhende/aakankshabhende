@@ -3,8 +3,7 @@
 
 <p style = "line-height: 80%">
 An enthusiastic individual who loves exploring new technologies and who has the ability to come up with better solutions.  <br/>
-  ✨ A Software Engineer and an Open Source Enthusiast who has guided <b>100+ participants</b> to start their open-source journey.  <br/>
-  &nbsp &nbsp  &nbsp I have contributed to numerous open-source projects and now mentoring various projects and teams.<br/>
+  ✨ An Associate Software Engineer at <b><a href="https://www.redhat.com/">Red Hat</a></b> and an Open Source Enthusiast who has guided <b>100+ participants</b> to start their open-source journey. I have contributed to numerous open-source projects and now mentoring various projects and teams.<br/>
   🌱 I work closely with the local training and development centre <b><a href="https://websycode.in/">WebSyCode</a></b> to abridge the technological gap separating the current market trends with academic means of webinars, in-person consultation and running local campaigns and meetups. <br/>
   ✔️ I believe in sharing, learning and growing together. Extremely motivated to develop my skills constantly and grow professionally. Also, I possess
     great communication and leadership skills.
@@ -13,18 +12,18 @@ An enthusiastic individual who loves exploring new technologies and who has the 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakankshabhende&label=Profile%20views&color=32CD32&style=flat" alt="aakankshabhende" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"></img>
 
 - 🔭 I’m currently exploring <b>Cloud Services</b>
 - 💬 Ask me about **Cloud** and **Open Source Contributions** 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **aakanksha0407@gmail.com**
+- 📫 Reach me at: **aakanksha0407@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
-- ❤️ Building a community to make an impact by training new generations on cutting edge technologies to meet future requirements. 
+- ❤️ Building a community to make an impact by training new generations on cutting-edge technologies to meet future requirements. 
 <br/>
 
 ## 🚀 My Blogs
-I love exploring technology and documenting stuff that I come across and find interesting. Hoping that you will love reading it :)<br><br>
+I love exploring technology and documenting stuff that I find interesting. Hoping that you will love reading it :)<br><br>
 [<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">](https://blogs.aakanksha.is-a.dev/)
 
 ## 🤝 Connect with me
@@ -56,6 +55,7 @@ You can connect with me here-
   
 </p>
 
+<!--
 <p align=center >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakankshabhende" /> 
 </p>
@@ -66,6 +66,7 @@ You can connect with me here-
 <p align=center >
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakankshabhende&show_icons=true&locale=en" alt="aakankshabhende" />
 </p>
+-->
 
 ## ✔ My Projects
 <p>
