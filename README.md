@@ -1,43 +1,21 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-## <b>Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, I'm [Aakanksha](https://aakanksha.is-a.dev/)!</b>
+## <b>Hey there! 👋🏻</b>
 
 <p style = "line-height: 80%">
-An enthusiastic individual who loves exploring new technologies and who has the ability to come up with better solutions.  <br/>
-  ✨ An Associate Software Engineer at <b><a href="https://www.redhat.com/">Red Hat</a></b> and an Open Source Enthusiast who has guided <b>100+ participants</b> to start their open-source journey. I have contributed to numerous open-source projects and now mentoring various projects and teams.<br/>
-  🌱 I work closely with the local training and development centre <b><a href="https://websycode.in/">WebSyCode</a></b> to abridge the technological gap separating the current market trends with academic means of webinars, in-person consultation and running local campaigns and meetups. <br/>
-  ✔️ I believe in sharing, learning and growing together. Extremely motivated to develop my skills constantly and grow professionally. Also, I possess
-    great communication and leadership skills.
-<br>
+An Associate Software Engineer at <a href="https://www.redhat.com/">Red Hat</a> and an Open Source Enthusiast who has guided <b>100+ participants</b> to start their open-source journey. I have contributed to numerous open-source projects and now mentoring various projects and teams.<br/>
+
+I work closely with the local training and development centre <a href="https://websycode.in/">WebSyCode</a> to abridge the technological gap separating the current market trends with academic means of webinars, in-person consultation and running local campaigns and meetups. <br/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakankshabhende&label=Profile%20views&color=32CD32&style=flat" alt="aakankshabhende" /> </p>
 
-<img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"></img>
+**Reach me at**: [LinkedIn](https://www.linkedin.com/in/aakanksha-bhende/) | [Email](aakanksha0407@gmail.com)
 
-- 🔭 I’m currently exploring <b>Cloud Services</b>
-- 💬 Ask me about **Cloud** and **Open Source Contributions** 
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at: **aakanksha0407@gmail.com**
-- ⚡ Fun fact: I love designing and travelling to explore new places.
-- ❤️ Building a community to make an impact by training new generations on cutting-edge technologies to meet future requirements. 
-<br/>
+## My Blogs
 
-## 🚀 My Blogs
-I love exploring technology and documenting stuff that I find interesting. Hoping that you will love reading it :)<br><br>
+A tech savvy who loves documenting stuff that I come across and find interesting. Hoping that you will love reading it :)<br><br>
 [<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">](https://blogs.aakanksha.is-a.dev/)
 
-## 🤝 Connect with me
-<p>
-I love networking and connecting with people of different backgrounds and hence I'm an active member of numerous technical and non-technical clubs and societies⚡
-<br/>
-You can connect with me here-
-</p>
-
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakanksha-bhende/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/AakankshaBhende)
-
-## 💻 Languages and Tools
+## Skills
 
 <p>
 
@@ -68,12 +46,6 @@ You can connect with me here-
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakankshabhende&show_icons=true&locale=en" alt="aakankshabhende" />
 </p>
 -->
-
-## ✔ My Projects
-<p>
-Check my repositories below 👇
-</p>
-</div>
 
 <!--
 **Aakanksha0407/Aakanksha0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
