@@ -11,7 +11,8 @@ I love documenting stuff that I come across and find interesting. You can find m
 - NodeJS | SQL | MongoDB | MySQL
 - Postman
 - Version-Control/Git | GitLab
-- Microsoft Azure | AWS | Docker 
+- Microsoft Azure | AWS
+- Docker | Kubernetes | OpenShift 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakanksha-bhende/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakanksha0407@gmail.com)
