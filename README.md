@@ -6,14 +6,15 @@ I work closely with the local training and development centre [WebSyCode](https:
 
 I love documenting stuff that I come across and find interesting. You can find my blogs at [blogs.aakanksha.is-a.dev](https://blogs.aakanksha.is-a.dev/).
 
-- Python
 - JavaScript | TypeScript | ReactJS | NextJS
 - NodeJS | SQL | MongoDB | MySQL
 - Postman
+- GraphQL
 - Version-Control/Git | GitLab
 - Microsoft Azure | AWS
-- Docker | Kubernetes | OpenShift 
-
+- Docker | Kubernetes | OpenShift
+- Python
+  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakanksha-bhende/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakanksha0407@gmail.com)
 
