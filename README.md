@@ -1,6 +1,6 @@
 ## <b>Hey there! 👋🏻</b>
 
-An Associate Software Engineer at [Red Hat](https://www.redhat.com/) and an Open Source Enthusiast who has guided <b>100+ participants</b> to start their open-source journey. I have contributed to numerous open-source projects and now mentoring various projects and teams.
+I'm Aakanksha, a CSE grad 2023 (Gold Medalist), I work at [Red Hat](https://www.redhat.com/) as an Associate Software Engineer and I'm an Open Source Enthusiast who has guided <b>100+ participants</b> to start their open-source journey. I have contributed to numerous open-source projects and now mentoring various projects and teams.
 
 I'm a LiFT’23 scholar, recognized under the <b>Women in Open-Source</b> category amongst the *top 500 scholars globally*. 
 
