@@ -1,15 +1,16 @@
 ## <b>Hey there! 👋🏻</b>
 
-I'm Aakanksha, a CSE grad 2023 (Gold Medalist), I work at [Red Hat](https://www.redhat.com/) as an Associate Software Engineer and I'm an Open Source Enthusiast who has guided <b>100+ participants</b> to start their open-source journey. I have contributed to numerous open-source projects and now mentoring various projects and teams.
+I'm Aakanksha, a CSE grad 2023 (Gold Medalist), I work at [Red Hat](https://www.redhat.com/) as an Associate Software Engineer and I'm an open source enthusiast who has guided <b>100+ participants</b> to start their open-source journey. I have contributed to numerous open-source projects and now mentoring various projects and teams.
 
-I'm a LiFT’23 scholar, recognized under the <b>Women in Open-Source</b> category amongst the *top 500 scholars globally*. 
+I'm a LiFT’23 scholar, recognized under the <b>Women in Open Source</b> category amongst the *top 500 scholars globally*. 
 
 Additionally, I'm a GitHub Campus Expert, selected among the *top 65 Campus Experts from around 10,000 global applications* to uplift my local community on campus with training, mentorship, and support from GitHub to abridge the technological gap separating the current market trends with academic means of webinars and in-person consultation.
 
 I love documenting stuff that I come across and find interesting. You can find my blogs at [blogs.aakanksha.is-a.dev](https://blogs.aakanksha.is-a.dev/).
 
 - JavaScript | TypeScript | ReactJS | NextJS
-- NodeJS | SQL | MongoDB | MySQL
+- NodeJS
+- SQL | MongoDB | MySQL
 - Postman
 - GraphQL
 - Version-Control/Git | GitLab
