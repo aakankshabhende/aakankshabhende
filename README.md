@@ -1,6 +1,8 @@
 ## <b>Hey there! 👋🏻</b>
 
-I'm Aakanksha, a CSE grad 2023 (Gold Medalist), I work at [Red Hat](https://www.redhat.com/) as an Associate Software Engineer and I'm an open source enthusiast who has guided <b>100+ participants</b> to start their open-source journey. I have contributed to numerous open-source projects and now mentoring various projects and teams.
+I'm Aakanksha, a CSE grad 2023 (Gold Medalist), I work at [Red Hat](https://www.redhat.com/) as an Associate Software Engineer with the Experience Engineering team. 
+
+I'm an open source enthusiast who has guided <b>100+ participants</b> to start their open-source journey. I have contributed to numerous open-source projects and now mentoring various projects and teams.
 
 I'm a LiFT’23 scholar, recognized under the <b>Women in Open Source</b> category amongst the *top 500 scholars globally*. 
 
@@ -10,14 +12,14 @@ I love documenting stuff that I come across and find interesting. You can find m
 
 - JavaScript | TypeScript | ReactJS | NextJS
 - NodeJS
+- Llama Stack
+- Python
 - SQL | MongoDB | MySQL
 - Postman
 - GraphQL
-- Version-Control/Git | GitLab
-- Microsoft Azure | AWS
 - Docker | Kubernetes | OpenShift
-- Python
-  
+- Version-Control/Git | GitLab
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakanksha-bhende/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakanksha0407@gmail.com)
 
