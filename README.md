@@ -1,8 +1,8 @@
 ## <b>Hey there! 👋🏻</b>
 
-I'm Aakanksha, a CSE grad 2023 (Gold Medalist), I work at [Red Hat](https://www.redhat.com/) as an Associate Software Engineer with the Experience Engineering team. 
+I'm Aakanksha, a CSE grad 2023 (Gold Medalist), I work as an SDE II at [Red Hat](https://www.redhat.com/) with the Experience Engineering team. 
 
-I'm an open source enthusiast who has guided <b>100+ participants</b> to start their open-source journey. I have contributed to numerous open-source projects and now mentoring various projects and teams.
+I'm a part of *Kubernetes Release Team* and I'm an open source enthusiast who has guided <b>100+ participants</b> to start their open-source journey. I have contributed to numerous open-source projects and now mentoring various projects and teams.
 
 I'm a LiFT’23 scholar, recognized under the <b>Women in Open Source</b> category amongst the *top 500 scholars globally*. 
 
